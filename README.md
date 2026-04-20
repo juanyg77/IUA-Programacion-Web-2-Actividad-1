@@ -58,5 +58,5 @@ Para mostrar la información al usuario de forma prolija, utilicé un sistema de
 
 ---
 ## Enlaces del Proyecto
-* **Repositorio GitHub:** [https://github.com/tu-usuario/nombre-del-repo](https://github.com/tu-usuario/nombre-del-repo)
-* **Diagrama de Flujo Editable:** [Link de Canva/Lucidchart/etc]
+* **Repositorio GitHub:** https://github.com/juanyg77/IUA-Programacion-Web-2-Actividad-1
+* **Diagrama de Flujo Editable:** https://drive.google.com/file/d/1ROwu_i7Pa4-gvgjLZgmyIPg70LYE6WgF/view?usp=sharing
